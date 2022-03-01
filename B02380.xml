@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable House of Commons in Parliament assembled. The humble petition of commisary Lyonell Copley.</title>
+            <author>Copley, Lionel, 1648-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02380</idno>
+            <idno type="STC">Wing C6085A</idno>
+            <idno type="STC">ESTC R176596</idno>
+            <idno type="EEBO-CITATION">52211997</idno>
+            <idno type="OCLC">ocm 52211997</idno>
+            <idno type="VID">175606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175606)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable House of Commons in Parliament assembled. The humble petition of commisary Lyonell Copley.</title>
+                  <author>Copley, Lionel, 1648-1693.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Underlined in ms. throughout.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition_to_Parliament">
+            <pb facs="tcp:175606:1" rendition="simple:additions"/>
+            <head>To the Honourable Houſe of Commons in PARLIAMENT aſſembled. The humble Petition of Commiſary <hi>Lyonell Copley.</hi>
+            </head>
+            <opener>SHEWETH;</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas upon a certificate from the Court of Accompts this honourable Houſe was pleaſed to Order Your Petitioner forthwith to pay the ſum therein expreſſed, which notwithstanding his willingneſſe for their ſatisfaction (if his life lay upon it) h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cannot poſsible in readie mony doe, moſt of his perſonall eſtate now lying in the hands of the State in his Arreares and other<g ref="char:EOLhyphen"/>wiſe, Now foraſmuch as the ſaid Committee, not having inſtructions (as he <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>) what to allow <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſallow in Ac<g ref="char:EOLhyphen"/>compts of this nature (he being the first of this kinde they have paſſed Ac<g ref="char:EOLhyphen"/>compts with) have thought fit to charge upon him all the Horſes, Armes, and furniture of Warre hee hath receaved from the State, for the raiſing and re<g ref="char:EOLhyphen"/>cruting of his Troope of Horſe (no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their ſervice in his Excellencies Ar<g ref="char:EOLhyphen"/>mie) to the <hi>xxi.</hi> of <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rch 1643.</hi> and have valued them at <hi>2033. 16:0:</hi> as if hee had bought them of the State, though there was no Ordi<g ref="char:EOLhyphen"/>nance Order of Parliament, or contract of his binding him to make them good, hee n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t having any uſe thereof but for their ſervice, which he is readie to reſigne and deliver up into what hands this Honourable Houſe ſhall thinke fit.</p>
+            <p>Hee therefore humbly prayes this Honourable Houſe, he may with thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſent and fa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r deliver up his ſaid Troope of Horſe, with the Armes and other furniture for Warre, as they are valued to him by the ſaid Committee, and the ſame bee accepted as payment which will ſurmount the ſaid ſumme
+<pb n="2" facs="tcp:175606:2" rendition="simple:additions"/> expreſſed upon the ſaid certificate, beſeeching this Honourable Houſe he may then be received into their favour, and admitted (in what way they in their wiſdomes ſhall thinke most equall to a review of his ſaid accompts and his juſt exceptions received to the ſaid certificate being well aſſured hee ſhall clearely make appeare there is a very great ſumme really due unto him.</p>
+            <closer>
+               <signed>And your Petitioner ſhall ever humbly pray <hi>Lyonell. Copley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="disposition_of_petition">
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi 19. Octo. 1644.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Petition of Commiſſary <hi>Copley</hi> was this day read in the Houſe of Commons, and Orde<g ref="char:EOLhyphen"/>red, that it bee referred to the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> formerly appointed for <hi>Commiſſary Cop<g ref="char:EOLhyphen"/>lies</hi> buſineſſe, to ſtate the deſires of the Petiti<g ref="char:EOLhyphen"/>on, and to report their opinions to the Houſe.</p>
+            <closer>
+               <signed>H. Elſyng Cler: Parl: D. Com.</signed>
+            </closer>
+         </div>
+         <div type="petitioners_response_to_Committee">
+            <pb n="3" facs="tcp:175606:2" rendition="simple:additions"/>
+            <head>Commiſarie <hi>Copley,</hi> his reaſons given into the Committee of the Liſt for his Excellencies Army, why the Committee of Accompts ought not to have charged him with the horſes and Armes he received for the raiſing and Recrute of his Troope at a value as his debt, yet if charged ought to be allow<g ref="char:EOLhyphen"/>ed at the ſame values by way of diſcount if not found to be by him imbeſled or converted to his owne uſe, and that thoſe yet in his Troope or loſt upon ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvice ſince his accompt, ought to be accepted of as good payment, for ſo much as they are vallued to him according to the deſires of his Petition lately preſented to the honourable houſe of Commons in this behalfe, as alſo for a revenue of his Accompts.</head>
+            <p>AT the firſt eſtabliſhment of the Army that was not ſettled or de<g ref="char:EOLhyphen"/>clared that the Capt. ſhould make good the Horſes and Armes he received from the State for himſelfe, Troope or Company, not was there any Covenant twixt the State and him to that purpoſe, nor is there any Ordinance or order of both or either of the Hou<g ref="char:EOLhyphen"/>ſes of Parliament, binding him thereto, till the Ordinance of the 26. of <hi>March</hi> 1644. which was ſince the accompt and lookes only for<g ref="char:EOLhyphen"/>ward as by the ſame herewith ſhewed doth appeare.</p>
+            <p n="2">2. He conceives that beyond all Example and preſident, and contrary to the Rules of Warre and common Iuſtice, that he ſhould be charged to the value of 2000. pounds and upwards for his ſaid horſe and Armes, a yeare or two after his entertaynment into and progreſſe in the ſervice of the Parliament, the e being no condition of his part, or ſo much as any propoſall on theirs, whereby he could imagine that would be expected at his hands.</p>
+            <p n="3">3. Wee rayſed and had before the battle of <hi>Newbury,</hi> eighty ſix horſes for his Troope, as by his accompts given into the ſaid Com<g ref="char:EOLhyphen"/>mittee upon his Oath herewith ſhewed doth appeare, All which were not worth above five pound a horſe one with another, no value being ſet upon them nor Ticket given for them to any perſon by a<g ref="char:EOLhyphen"/>ny
+<pb n="4" facs="tcp:175606:3" rendition="simple:additions"/> perſon by any Committee or perſon whatſoever, whereby the State can be charged with one peny for them, neither could they, (had he not charged himſelfe) have charged him upon any account therewith.</p>
+            <p n="4">4. The Committee of Accompts (without any juſt ground as he conceives) thought fit upon an Accompt of their owne making up to charge him withall the ſaid horſes at ten pound per horſe, which he conceives they could not properly nor rightly doe for that they are unacquainted in that way, and not imployed for that end, but principally for that they never ſaw any of them, it being divers Monthes after the ſaid horſes were killed, loſt or made away before they were a Committee.</p>
+            <p n="5">5. All the ſaid horſes were before or at the battle of <hi>Newbury</hi> ei<g ref="char:EOLhyphen"/>ther dead killed, or loſt, upon ſervice by hard duty one way or other, except eight at moſt he having loſt above fortie in the battle as he hath proved before this honourable Committee, two only of them being converted to his owne uſe which he made good to the State as by the ſaid Accompt herewith ſhewed doth appeare.</p>
+            <p n="6">6. He received for the Recrewt of his ſaid Troope ſince <hi>Newbury</hi> battle in horſes and mony to buy horſes with, at ten pound a horſe, eighty ſix more with which as with the former to a hoofe he char<g ref="char:EOLhyphen"/>ged himſelfe upon his ſaid Accompt expreſſing upon his oath each mans name who had them being of his Troope fortie two, where<g ref="char:EOLhyphen"/>of he received ſince the ſaid Ordinance which are not charged upon him by the ſaid accompt made up by the ſaid Committee to the 21. of <hi>March,</hi> 1643, nor did he know that they had charged him with his ſaid horſes and Armes at a prize as his debt, nor how they had made up the ſaid accompt till payment of what was certified by the ſaid Committee to be due from him, was ordered by the honour<g ref="char:EOLhyphen"/>able Houſe of Commons.</p>
+            <p>The ſaid horſes received for his recrewt and thoſe eight brought from <hi>Newbury</hi> battle unleſſe ſome few which ſhortly dyed or was utterly unſerviceable were muſtred in his ſaid Troope the 20th. of <hi>May</hi> 1644. which then conſiſted of eighty foure ſtate horſes, fortie two whereof are part of thoſe charged upon him by the ſaid <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:175606:3" rendition="simple:additions"/> at 10<hi rend="sup">•</hi> 
+               <hi>per</hi> horſe as by the Muſter <hi>Roll</hi> at teſted by Sir <hi>Edward Dodſworth</hi> herewith ſhewed doth appeare, which ſaid Troope of horſe now is and ever ſince hath beene upon ſervice in his Excellencies Army, and are the very ſame ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes he is charged with as aforeſaid, and are thoſe only which coſt or can coſt the State any peny, twenty three whereof were not wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th above ſix pound <hi>per</hi> horſe, one with another, none of all which were ever ſeene by the ſaid Committee nor ought as he conceives to be charged upon him however ſo o<g ref="char:EOLhyphen"/>therwiſe then the ordinance provides for.</p>
+            <p>The ſaid horſes r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceived as aforeſaid he never had occaſion for, nor hath uſe of, but for the ſervice of the ſtate, except for two of them which he made uſe of to his owne particular, with which he charged himſelfe upon his ſaid accompt upon the ſame prizes they coſt the State.</p>
+            <p>All the Armes, Piſtolls, Saddles and their furniture whatſoe<g ref="char:EOLhyphen"/>ver which he hath received both before and ſince the Accompt and Ordinance to this day, unleſſe twelve Saddles and ſix Backes, Breſts and Pots are to abridle charged upon him at ſeverall prizes, by the ſaid Accompt, and one hundred pound part of the price of the ſaid Saddles alſo part whereof were loſt upon ſervice and other<g ref="char:EOLhyphen"/>wayes as the horſes were before and at the battle of <hi>Newbury,</hi> three Piſtolls and few or no Armes being brought of that day, And the reſidue received ſince the battle of <hi>Newbury</hi> they were delive<g ref="char:EOLhyphen"/>red to his Officers and Troops muſtred the 20th. of <hi>May</hi> aforeſaid who were armed and have ſerved therewith in his Excellencies Army ever ſince, none of which as he conceives ought to be char<g ref="char:EOLhyphen"/>ged upon him however no otherwiſe then is provided by the Or<g ref="char:EOLhyphen"/>dinance.</p>
+            <p>The ſaid Horſes and Arms which he received as aforeſaid though hee had beene bound to make them good, and they neither loſt kil<g ref="char:EOLhyphen"/>led, or made away, the ſtate could not expect he ſhould pay ſo much mony for them as the ſaid Committee valued them at, notwithſtan<g ref="char:EOLhyphen"/>ding at the time when hee did receive them they had bin really worth ſo much; becauſe ſo many thereof as hee ſhall deliver in againe in their kinde though lame, ſpoyled, or broake, or give accompt for be<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:175606:4" rendition="simple:additions"/> loſt in ſuch a way as the Ordinance provides allowance, for the State is bound to accept of as made good in their owne ſenſe.</p>
+            <p>Hee conceaves that ſuch Horſes and Armes received by him as aforeſaid as are made worſe in and by the ſervice halfe in halfe more or leſſe, and after that by accident dye, are loſt, or made away in ſuch manner as the ſaid Ordinance provides not allowance for, he ought not to make good ſo much mony for them as at his firſt receipt ther<g ref="char:EOLhyphen"/>of they were valued at, or were truly worth, the ſtate having had their ſervice by which they doe become of little or no value.</p>
+            <p>Hee conceaves that the Parliament when they made that Ordi<g ref="char:EOLhyphen"/>nance binding every Captain to make good his Horſes and Armes, intended and concluded to pay the Captaine and his Troope or company conſtantly, which ought in the firſt place to be performed before the other can bee expected, becauſe by reaſon of their want of pay they cannot provide for and maintaine their Horſes if they fall ſicke, or lame, whereby they are diſabled to keepe them alive and ſerviceable (and the like for the repaire of their Armyes and ſaddles which unavoidably occaſioneth the loſſe of many Horſes and Arms, which not being by his or his Souldiers default he, ought not as hee conceaves to be charged with them or pay for them.</p>
+            <p>If it be alleadged that the Captaine is to receive the Souldiers Arreares thereby to make good to himſelfe the value of the Horſes and Armes loſt by the Souldier, and therefore ought to make them good to the State, hee anſwereth, that he conceaves that courſe to bee very unequall and will bee of ill conſequence to the State, for there are very many Souldiers whoſe Horſes, or Armes or both, doe dye, or are lamed, or otherwiſe ſpoyled that ſtay not a month in the Troope, yet may bee leſſe, few ſo long as their Arreares will make good the value of them, and thoſe that doe, yet would bee ill taken they ſhould pay for their Horſe and Armes which are worne out an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpent in the States ſervice, And ſo by conſequence he conceaves <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will neceſſarily follow either the Captaine, or his Souldiers or both, muſt be diſcouraged and forced to deſert the imployment, or in the concluſion be certainly undone.</p>
+            <p>Hee conceaveth that the Oath obliging the Committee of Ac<g ref="char:EOLhyphen"/>compts
+<pb n="7" facs="tcp:175606:4" rendition="simple:additions"/> to deale faithfully in taking of accompts of the Kingdome relates only to the State, not to the Accomptant neither have they as yet any bounds ſet or rules given them for taking accompts of this kinde, his being the firſt of this nature, and the way to ſtate the reſt, therefore a reveiw of his ſaid accompts according to ſuch rules as may be given them, is (the foregoing reaſons conſidered) moſt juſt and neceſſary all the ſouldiery under the Parliaments ſervice be<g ref="char:EOLhyphen"/>ing a like concerned herein.</p>
+            <p>Hee hath diverſe other reaſons to offer to this Honourable Com<g ref="char:EOLhyphen"/>mittee for their further ſatisfaction, if it ſhall bee neceſſary, but for that they have not as yet thought fit to let him ſee or be acquainted with the reaſons they have (as yet alleadged) receaved from the ſaid Committee of Accompts for his being charged with his Horſe, and Armes as is already ſet forth, and why thoſe in his Troope ſo char<g ref="char:EOLhyphen"/>ged ought not to be accepted at the ſame values they are charged, as good payment, he (knowing they cannot be ſo powerfull for his de<g ref="char:EOLhyphen"/>fence) forbeareth to give any further reaſons till they ſhall pleaſe to ſhow him what is alleadged againſt him, which as yet is his undoub<g ref="char:EOLhyphen"/>ted right, ſo he hopes before they report their ſenſe of this buſines they will afford him, with convenient time for his anſwers thereto, that ſo the true ſtate thereof may fully appeare to the Honourable Houſe of Commons, to whoſe judgement thereupon he ſhall freely ſubmit himſelfe.</p>
+            <closer>
+               <signed>Lyonell Copley.</signed>
+            </closer>
+         </div>
+         <trailer>FJNIS</trailer>
+      </body>
+   </text>
+</TEI>
